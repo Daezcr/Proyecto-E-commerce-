@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(-225deg, #ffffff 0%, #ffffff 100%);
+background-image: linear-gradient(to top, #926eaa  0%, #757f7d 100%);
+background-attachment: fixed;
+  background-repeat: no-repeat;
+  font-family: Gilroy;
+  font-family:Gilroy;
+opacity: .95;
+text-align: -webkit-center;
+}
+table{
+    border: white;
+color: rgb(255, 255, 255);
+
+}
+caption{
+  color: rgb(255, 255, 255);
+}
+a {
+  color: #6918ac;
+  cursor: pointer;
+  text-decoration: underline;
+  text-align:letter-spacing 
+  ;
+}

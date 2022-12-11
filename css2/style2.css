@@ -1,0 +1,16 @@
+body {
+    background-color: linear-gradient(-225deg, #f10d83 0%, #e435e2 100%);
+background-color: linear-gradient(to top, #351897 0%, #d11097 100%);
+background-image: url("Bienvenida.png");
+background-size: 100% 100%;
+background-attachment: fixed;
+  background-repeat: no-repeat;
+
+    font-family: Gilroy;
+
+    font-family:Gilroy;
+opacity: .95;
+text-align: -webkit-center;
+
+   
+  }
